@@ -1,1 +1,1 @@
-# Battle_Army
+Practicing some js skills
